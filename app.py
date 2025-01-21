@@ -67,7 +67,7 @@ st.markdown(
 st.title("🎥 Professional Movie Recommendation System")
 
 # TMDB API configuration
-TMDB_API_KEY = "d17054e0d2e48a505e17bf4ca39d62c1"
+TMDB_API_KEY = "Your API Key"
 TMDB_API_URL = "https://api.themoviedb.org/3"
 
 # Input field for movie name
